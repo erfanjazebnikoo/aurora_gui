@@ -33,7 +33,7 @@ The Aurora software section divides into:
 [GUI][aurora_gui] is responsible for receiving inputs from the drone and controlling it, [Core][aurora_core] responsibility is to receive inputs from [GUI][aurora_gui], analyze data and provide proper outputs for the drone, and [The Mapping application][aurora_copter] is responsible for making 3D maps from coordinates and aerial images.
 In this project C++ programming language, [OpenCV][opencv] and [QT][qt] libraries are applied. [QT5][qt] libraries and ROS packages along with other libraries respectively used in all applications.
 
-![N|Solid](http://erfanjazebnikoo.com/downloads/aurora-core-gui.jpg)
+![N|Solid](http://erfanjn.com/downloads/aurora-core-gui.jpg)
 
 -----------------
 
